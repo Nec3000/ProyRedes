@@ -6,3 +6,6 @@ Nico:
 
 León: 
 - Configuración IP de todos los PCs
+
+Dayron:
+- Configuración de las vlan
